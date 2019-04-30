@@ -16,3 +16,5 @@ Collaborator:<a href="https://www.linkedin.com/in/sayak-paul/">Sayak Paul<a>
 
 # Anomaly
 <img src="https://github.com/ariG23498/Age_Detector_App/blob/master/for_readme/teddy.jpeg" height="600" width="350" title="Middle Aged Teddy">
+
+Video demo here: https://github.com/ariG23498/Age_Detector_App/blob/master/for_readme/1507940118923-hysdc8.mp4
