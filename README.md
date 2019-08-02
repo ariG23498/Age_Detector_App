@@ -1,4 +1,7 @@
 # Age_Detector_App
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8f827476f90c4058a99c93fa9608930f)](https://app.codacy.com/app/ariG23498/Age_Detector_App?utm_source=github.com&utm_medium=referral&utm_content=ariG23498/Age_Detector_App&utm_campaign=Badge_Grade_Dashboard)
+
 A `Flutter` application that detects age of a person, using Deep Learning capabilities.
 
 This application takes photos and analyses the person and predicts the `age slab` of the person.
